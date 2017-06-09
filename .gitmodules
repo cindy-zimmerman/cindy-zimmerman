@@ -4,3 +4,9 @@
 [submodule "tech/js/guld-vrcave"]
 	path = tech/js/guld-vrcave
 	url = git@github.com:isysd/guld-vrcave.git
+[submodule "community/guld"]
+	path = community/guld
+	url = git@github.com:guldcoin/guld.git
+[submodule "life/cindy-zimmerman"]
+	path = life/cindy-zimmerman
+	url = https://github.com/cindy-zimmerman/cindy-zimmerman.git
