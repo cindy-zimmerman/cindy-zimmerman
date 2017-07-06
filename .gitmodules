@@ -4,3 +4,6 @@
 [submodule "life"]
 	path = life
 	url = git@github.com:isysd/life.git
+[submodule "media"]
+	path = media
+	url = https://github.com/isysd/media.git
