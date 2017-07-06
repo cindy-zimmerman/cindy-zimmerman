@@ -7,3 +7,6 @@
 [submodule "media"]
 	path = media
 	url = https://github.com/isysd/media.git
+[submodule "keys"]
+	path = keys
+	url = https://github.com/isysd/keys.git
