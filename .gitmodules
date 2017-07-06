@@ -1,0 +1,6 @@
+[submodule "tech"]
+	path = tech
+	url = git@github.com:isysd/tech.git
+[submodule "life"]
+	path = life
+	url = git@github.com:isysd/life.git
