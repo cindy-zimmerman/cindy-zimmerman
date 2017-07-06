@@ -1,6 +1,12 @@
-[submodule "tech/js/gapp"]
-	path = tech/js/gapp
-	url = https://github.com/isysd/gapp.git
-[submodule "tech/js/guld-vrcave"]
-	path = tech/js/guld-vrcave
-	url = https://github.com/isysd/vrcave.git
+[submodule "tech"]
+	path = tech
+	url = git@github.com:isysd/tech.git
+[submodule "life"]
+	path = life
+	url = git@github.com:isysd/life.git
+[submodule "media"]
+	path = media
+	url = https://github.com/isysd/media.git
+[submodule "keys"]
+	path = keys
+	url = https://github.com/isysd/keys.git
