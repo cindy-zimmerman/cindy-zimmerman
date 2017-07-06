@@ -1,6 +1,29 @@
 {
-"name": "cindy-zimmerman",
-"path": "/life/cindy-zimmerman",
-"keys": {"pgp: "756C 6467 EF86 83A1 B8E5  C955 1EB8 402A 1A1B 35B6"},
-"definition": ""
+  "name": "cindy-zimmerman",
+  "path": "/life/cindy-zimmerman",
+  "definition": "Master of Disaster",
+  "keys": {
+    "pgp": "756C6467EF8683A1B8E5C9551EB8402A1A1B35B6"
+  },
+  "emails": [
+    "czimmerman@infsoftware.com"
+  ],
+  "www": "https://iramiller.com",
+  "communities": {
+    "mizim": "cindy-zimmerman",
+    "guld": "cindy-zimmerman",
+    "guld-tech": "cindy-zimmerman",
+    "guld-trade": "cindy-zimmerman",
+    "guld-law": "cindy-zimmerman",
+    "guld-econ": "cindy-zimmerman",
+    "github": "cindy-zimmerman",
+    "npm": "cindy-zimmerman",
+    "linkedin": "cindy-zimmerman-6ba7053",
+    "meatspace": "Cindy Zimmerman"
+  },
+  "children": [
+    "gap://keys/**/cindy-zimmerman.*",
+    "gap://media/text/md/cindy-zimmerman/**/*",
+    "gap://media/image/cindy-zimmerman/**/*"
+  ]
 }
